@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elif-nalan-mutlu/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:mutluelifnalan@email.com">Email</a> &nbsp;·&nbsp;
+  <a href="mailto:mutluelifnalan@email.com">Email</a>
 </p>
 
 ## Featured work
