@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/hero_final.svg" alt="Elif, Computer Science at MTSU" width="100%" />
+  <img src="assets/hero_final2.svg" alt="Elif, Computer Science at MTSU" width="100%" />
 </p>
 
 <p align="center">
