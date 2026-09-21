@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>ML + systems + full-stack.</b> Researching brain-imaging ML.<br/>
+  <b>Full-stack + Machine Learning </b> Researching brain-imaging ML.<br/>
   Looking for software engineering internships and new-grad roles.
 </p>
 
@@ -16,22 +16,12 @@
 </p>
 
 ## Featured work
+- **[SpIQ]("https://github.com/devmutfak/devmutfak-repo")** — Real-time AI communication coach that analyzes speech delivery, filler words, expressions, and gestures. 1st place, Hackathon 2026.
+- **[CodeHealth-Index](hhttps://github.com/elifnalan/CodeHealth-Index)** — ML-powered repository risk dashboard that mines git history to predict defect-prone files, visualized as a D3 treemap.
+- **[Quizzie](https://github.com/elifnalan/Quizzie-multithreaded-server)** — Concurrent client-server quiz platform in C with thread-safe question banks and reader-writer locks.
+- **[Pathway Planner](https://github.com/elifnalan/Pathway-Planner)** — Chronic-care management app with goal tracking and clinician approval workflows.
 
-<p align="center">
-  <a href="https://github.com/devmutfak/devmutfak-repo"><img src="assets/card-spiq.svg" alt="SpIQ" width="49%" /></a>
-  <a href="https://github.com/elifnalan/CodeHealth-Index"><img src="assets/card-codehealth.svg" alt="CodeHealth-Index" width="49%" /></a>
-  <a href="https://github.com/elifnalan/Quizzie-multithreaded-server"><img src="assets/card-quizzie.svg" alt="Quizzie" width="49%" /></a>
-  <a href="https://github.com/elifnalan/Pathway-Planner"><img src="assets/card-pathway.svg" alt="Pathway Planner" width="49%" /></a>
-</p>
 
 ## Stack
-
-<p align="center">
-  <img src="assets/stack.svg" alt="Languages, ML and data, systems, web, tools" width="100%" />
-</p>
-
-## Timeline
-
-<p align="center">
-  <img src="assets/log.svg" alt="Awards and milestones as a git log" width="100%" />
-</p>
+ 
+C++, C, Java, Python, SQL, JavaScript, TypeScript · React, Node.js · NumPy, SciPy, Matplotlib · Linux, Git

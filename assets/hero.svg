@@ -1,19 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14152b"/><stop offset="1" stop-color="#0c0d1a"/></linearGradient></defs>
-<style>
-.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace} .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
-@keyframes fade{from{opacity:0}to{opacity:1}}
-@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
-@keyframes blink{50%{opacity:0}}
-.f{animation:fade .8s both}
-.t{animation:pulse 4.5s ease-in-out infinite} .cur{animation:blink 1s steps(2) infinite}
-</style>
-<rect x="0.5" y="0.5" width="899" height="279" rx="16" fill="url(#bg)" stroke="#2b2d52"/>
-<rect class="t" x="560" y="28" width="150" height="110" rx="6" fill="#4f53a8" style="animation-delay:0.0s"/><text class="mono" x="570" y="48" font-size="11" fill="#ffffff" opacity=".8">spiq/</text><rect class="t" x="560" y="142" width="150" height="58" rx="6" fill="#7479D1" style="animation-delay:0.6s"/><text class="mono" x="570" y="162" font-size="11" fill="#ffffff" opacity=".8">quizzie/</text><rect class="t" x="560" y="204" width="150" height="48" rx="6" fill="#3a3d86" style="animation-delay:1.2s"/><rect class="t" x="714" y="28" width="154" height="64" rx="6" fill="#5f64c4" style="animation-delay:0.9s"/><text class="mono" x="724" y="48" font-size="11" fill="#ffffff" opacity=".8">pathway/</text><rect class="t" x="714" y="96" width="154" height="70" rx="6" fill="#f0a35e" style="animation-delay:0.3s"/><text class="mono" x="724" y="116" font-size="11" fill="#2a1a08" opacity=".8">risk: high</text><rect class="t" x="714" y="170" width="80" height="82" rx="6" fill="#8a8fe0" style="animation-delay:1.5s"/><text class="mono" x="724" y="190" font-size="11" fill="#ffffff" opacity=".8">research/</text><rect class="t" x="798" y="170" width="70" height="40" rx="6" fill="#3a3d86" style="animation-delay:0.2s"/><rect class="t" x="798" y="214" width="70" height="38" rx="6" fill="#4f53a8" style="animation-delay:1.0s"/>
-<text class="mono" x="48" y="84" font-size="16" fill="#9b9ec4">hi, i'm</text>
-<text class="sans" x="44" y="162" font-size="84" font-weight="800" fill="#ffffff">Elif</text>
-<text class="sans" x="48" y="198" font-size="16" fill="#a9adf2">Computer Science @ MTSU · GPA 4.0 · May 2027</text>
-<text class="mono" x="48" y="238" font-size="14" fill="#eceefb">&gt; mining git history for bugs before they ship</text>
-<rect class="cur" x="440" y="225" width="9" height="16" fill="#f0a35e"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240"><rect width="900" height="240" rx="14" fill="#faf6ef"/>
+<text x="60" y="60" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#a39c8f">Hi, I&apos;m</text>
+<rect x="60" y="158" width="70" height="6" rx="3" fill="#f2a6c1"/>
+<text x="60" y="130" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#f2a6c1">Elif</text>
+<text x="60" y="193" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#6b665c">Computer Science @ MTSU · Buchanan Fellow · Undergraduate Researcher</text>
 </svg>
