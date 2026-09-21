@@ -5,7 +5,7 @@ Computer Science @ MTSU · Buchanan Fellow · Undergraduate Researcher
 
 
 <b>Full-stack + Machine Learning + Brain Imaging Research <br/>
-  ooking for software engineering internships and new-grad roles.
+Looking for software engineering internships and new-grad roles.
 
 ## Featured work
 - **[SpIQ](https://github.com/devmutfak/devmutfak-repo)** : Real-time AI communication coach that analyzes speech delivery, filler words, expressions, and gestures. 1st place, Hackathon 2026.
