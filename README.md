@@ -7,12 +7,6 @@ Computer Science @ MTSU · Buchanan Fellow · Undergraduate Researcher
 <b>Full-stack + Machine Learning + Brain Imaging Research <br/>
   ooking for software engineering internships and new-grad roles.
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/elif-nalan-mutlu/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:mutluelifnalan@email.com">Email</a>
-</p>
-
 ## Featured work
 - **[SpIQ](https://github.com/devmutfak/devmutfak-repo)** : Real-time AI communication coach that analyzes speech delivery, filler words, expressions, and gestures. 1st place, Hackathon 2026.
 - **[CodeHealth-Index](https://github.com/elifnalan/CodeHealth-Index)** : ML-powered repository risk dashboard that mines git history to predict defect-prone files, visualized as a D3 treemap.
@@ -23,3 +17,7 @@ Computer Science @ MTSU · Buchanan Fellow · Undergraduate Researcher
 ## Stack
  
 C++, C, Java, Python, SQL, JavaScript, TypeScript · React, Node.js · NumPy, SciPy, Matplotlib · Linux, Git
+
+## Contact
+<a href="https://www.linkedin.com/in/elif-nalan-mutlu/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:mutluelifnalan@email.com">Email</a>
