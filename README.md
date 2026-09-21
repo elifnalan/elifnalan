@@ -1,12 +1,10 @@
 <!-- Elif Nalan Mutlu Profile -->
 
+# Elif Nalan Mutlu
+Computer Science @ MTSU · Buchanan Fellow · Undergraduate Researcher
 
 <p align="center">
-  <img src="assets/hero_final2.svg" alt="Elif, Computer Science at MTSU" width="100%" />
-</p>
-
-<p align="center">
-  <b>Full-stack + Machine Learning </b> Researching brain-imaging ML.<br/>
+  <b>Full-stack + Machine Learning + Brain Imaging Research <br/>
   Looking for software engineering internships and new-grad roles.
 </p>
 
