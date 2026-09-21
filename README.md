@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/devmutfak/devmutfak-repo"><img src="assets/card-spiq.svg" alt="SpIQ" width="49%" /></a>
   <a href="https://github.com/elifnalan/CodeHealth-Index"><img src="assets/card-codehealth.svg" alt="CodeHealth-Index" width="49%" /></a>
-  <a href="https://github.com/elifnalan/Quizzie-multithreaded-server><img src="assets/card-quizzie.svg" alt="Quizzie" width="49%" /></a>
+  <a href="https://github.com/elifnalan/Quizzie-multithreaded-server"><img src="assets/card-quizzie.svg" alt="Quizzie" width="49%" /></a>
   <a href="https://github.com/elifnalan/Pathway-Planner"><img src="assets/card-pathway.svg" alt="Pathway Planner" width="49%" /></a>
 </p>
 
