@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/TODO">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:TODO@email.com">Email</a> &nbsp;·&nbsp;
-  <a href="TODO-resume-link">Resume</a>
 </p>
 
 ## Featured work
